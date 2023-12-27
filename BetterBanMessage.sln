@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterBanMessage", "BetterBanMessage\BetterBanMessage.csproj", "{DD08BE77-FCDC-4BB6-AF97-BD95B929A5FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD08BE77-FCDC-4BB6-AF97-BD95B929A5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD08BE77-FCDC-4BB6-AF97-BD95B929A5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD08BE77-FCDC-4BB6-AF97-BD95B929A5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD08BE77-FCDC-4BB6-AF97-BD95B929A5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E61779-42F3-428D-A6BC-E31D1BDD4437}
+	EndGlobalSection
+EndGlobal
